@@ -5,5 +5,13 @@
   "repository": "git@github.com:tasshi-playground/demo-webpack-handles-hashbangs.git",
   "author": "Masaharu TASHIRO <masatsr.kit@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
 }
