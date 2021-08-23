@@ -1,5 +1,7 @@
 # demo-webpack-handles-hashbangs
 
+> hashbangs (`#! ...`) are now handled by webpack
+
 https://github.com/webpack/webpack/releases/v5.50.0
 
 with webpack@5.49.0
