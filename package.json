@@ -1,0 +1,9 @@
+{
+  "name": "demo-webpack-handles-hashbangs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tasshi-playground/demo-webpack-handles-hashbangs.git",
+  "author": "Masaharu TASHIRO <masatsr.kit@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
